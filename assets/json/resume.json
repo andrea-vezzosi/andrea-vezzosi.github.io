@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Andrea Vezzosi",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "andrea-vezzosi@unimore.it",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://andrea-vezzosi.github.io/",
+    "summary": "An italian physicist.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

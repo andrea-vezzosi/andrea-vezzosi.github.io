@@ -25,10 +25,10 @@
   "work": [
     {
       "name": "Laboratory of computational chemistry and biochemistry, EPFL",
-      "position": "Scientist",
+      "position": "    Scientist",
       "url": "https://example.com",
       "startDate": "2024-05-01",
-      "endDate": "",
+      "endDate": "2025-05-01",
       "summary": "",
       "highlights": ["Computational physics"]
     }
@@ -39,7 +39,7 @@
       "location": "Modena, Italy",
       "url": "https://www.uzh.ch/",
       "area": "Semiconductor nanowires",
-      "studyType": "PhD",
+      "studyType": "    PhD",
       "startDate": "2020-11-01",
       "endDate": "2024-15-04",
       "courses": ["Quantum physics"]

@@ -4,15 +4,15 @@
     "label": "Scientist",
     "image": "",
     "email": "andrea.vezzosi@unimore.it",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "https://andrea-vezzosi.github.io/",
-    "summary": "An italian physicist.",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Campi 213/A",
+      "postalCode": "41125",
+      "city": "Modena",
+      "countryCode": "IT",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Laboratory of computational chemistry and biochemistry, EPFL",
+      "position": "Scientist",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-05-01",
+      "endDate": "Now",
+      "summary": "",
+      "highlights": ["Computational physics"]
     }
   ],
   "volunteer": [

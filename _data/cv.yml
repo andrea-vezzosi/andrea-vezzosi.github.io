@@ -15,20 +15,20 @@
       institution: University of Modena and Reggio Emilia, Modena, Italy
       year: 11/2020 - 4/2024
       description:
-        - Thesis title: Spin-orbit coupled states in type-I, type-II and broken-gap core-shell nanowires
-        - Supervisors: Prof. Guido Goldoni and Dr. Andrea Bertoni
+        - Thesis title "Spin-orbit coupled states in type-I, type-II and broken-gap core-shell nanowires"
+        - Supervised by Prof. Guido Goldoni and Dr. Andrea Bertoni
     - title: Master of Science
       institution: University of Trento, Trento, Italy
       year: 9/2018 - 7/2020
       description:
-        - Thesis title: Optimal control techniques for circuit QED-based quantum computers
-        - Supervisor: Prof. Francesco Pederiva
+        - Thesis title "Optimal control techniques for circuit QED-based quantum computers"
+        - Supervised by Prof. Francesco Pederiva
     - title: Bachelor of Science
       institution: University of Modena and Reggio Emilia, Modena, Italy
       year: 9/2015 - 9/2018 
       description:
-        - Thesis title: Study of quantum devices by wave packet propagation
-        - Supervisors: Prof. Guido Goldoni
+        - Thesis title "Study of quantum devices by wave packet propagation"
+        - Supervised by Prof. Guido Goldoni
 
 - title: Academic Interests
   type: nested_list
